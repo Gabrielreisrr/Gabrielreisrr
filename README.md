@@ -11,7 +11,7 @@
   </br>
 - 😄 Also learning Networking Fundamentals and Security and Data Treatment 
 </br>
-- ⚡ Fun fact: I Love to play videogames. (Mainly fortnite)</br>
+- ⚡ Fun fact: I Love to play videogames.</br>
 <br>
   </div>
 <div align="center"> 
