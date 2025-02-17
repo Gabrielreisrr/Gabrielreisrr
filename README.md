@@ -4,12 +4,13 @@
 
  <div align="center">
    </br>
-- 🌱 I’m currently coding in Python, Flask, MySQL and JS.
+- 🌱 I’m currently coding in Python, Django, MySQL and JS.
   </br>
 - 📫 How to reach me: gabrielreisctt1@gmail.com
 
   </br>
 - 😄 Also learning Networking Fundamentals and Security and Data Treatment 
+<br>
 <br>
   </div>
 <div align="center"> 
