@@ -1,7 +1,7 @@
 <!-- Gabriel Reis | README with style -->
 
 <div align="center">
-  <img src="./🖤.jpg" width="750px" alt="artistic banner" />
+  <img src="./🖤.jpg" width="450px" alt="artistic banner" />
 </div>
 
 <h1 align="center">🕶️ Gabriel Reis</h1>
