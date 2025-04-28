@@ -1,5 +1,8 @@
 <!-- Gabriel Reis | README with style -->
 
+<!-- Capsule Render - Dark Gangster Vibe -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&fontColor=FFFFFF&fontSize=40&fontAlignY=40" />
+
 <div align="center">
   <img src="./🖤.jpg" width="450px" alt="artistic banner" />
 </div>
@@ -42,5 +45,5 @@ const tech = {
   backEnd: ["Node.js", "Fastify/Express", "Python", "Flask"],
   frontEnd: ["React", "TypeScript", "TailWind", "HTML", "CSS"],
   databases: ["MongoDB", "MySQL"],
-  tools: ["Git", "Docker", "insomnia",]
+  tools: ["Git", "Docker", "Insomnia"],
 }
