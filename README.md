@@ -1,10 +1,9 @@
 <!-- Gabriel Reis | README with style -->
 
-<!-- Capsule Render - Dark Gangster Vibe -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&fontColor=FFFFFF&fontSize=40&fontAlignY=40" />
 
 <div align="center">
-  <img src="./🖤.jpg" width="450px" alt="artistic banner" />
+  <img src="./photo1.jpg" width="450px" alt="artistic banner" />
 </div>
 
 <h1 align="center">🕶️ Gabriel Reis</h1>
