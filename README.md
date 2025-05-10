@@ -27,8 +27,8 @@
   <a href="https://instagram.com/g.reisr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:gabrielreisctt1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%2312100E.svg?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://www.hackerrank.com/profile/gabrielreisctt1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/gabriel-reis-992482250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
