@@ -42,7 +42,7 @@
 ```js
 const tech = {
   backEnd: ["Node.js", "Fastify/Express", "Python", "Flask"],
-  frontEnd: ["React", "TypeScript", "TailWind", "HTML", "CSS"],
-  databases: ["MongoDB", "MySQL"],
-  tools: ["Git", "Docker", "Insomnia"],
+  frontEnd: ["React", "NextJS", "TypeScript", "TailWind", "HTML", "CSS"],
+  databases: ["MongoDB", "MySQL", "Postgrees"],
+  tools: ["Git", "Docker", "Insomnia", "AWS"],
 }
