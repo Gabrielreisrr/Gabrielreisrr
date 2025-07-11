@@ -35,14 +35,4 @@
   </a>
 </div>
 
----
 
-### 🧠 Stack atual
-
-```js
-const tech = {
-  backEnd: ["Java/Spring", "Node.js", "Fastify/Express", "Python", "Flask"],
-  frontEnd: ["React", "Angular" "NextJS", "TypeScript", "TailWind", "HTML", "CSS"],
-  databases: ["MongoDB", "MySQL", "Postgrees"],
-  tools: ["Git", "Docker", "Insomnia", "AWS"],
-}
